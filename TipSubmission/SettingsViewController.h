@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  SettingsViewController.h
 //  TipSubmission
 //
 //  Created by Swaminathan Balu on 10/4/15.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface SettingsViewController : UIViewController
 
 @end
-
